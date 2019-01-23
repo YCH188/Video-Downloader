@@ -12,7 +12,7 @@
 #	CNTV: cntv.cntv()
 # 	战旗: zhanqi.zhanqi()
 # 	腾讯: tecent.tecent()
-import os
+import os #通过os模块调用系统命令
 import threading
 from platforms import *
 from utils.utils import *
